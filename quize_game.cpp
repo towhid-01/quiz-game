@@ -812,7 +812,7 @@ void football(){
 
 
     if(point<=5){
-            cout<<"                                           Gay                                            "<<endl;
+            cout<<"                                           Watch Football                                            "<<endl;
             cout<<endl;
     cout<<"                         Your score is too low to count"<<endl;
     return ;
