@@ -5,7 +5,7 @@ using namespace std;
 string tolower(string& inputString){
     string result = inputString;
     for(char& c : result) {
-        c = std::tolower(c);
+        c = tolower(c);
     }
     return result;
 }
